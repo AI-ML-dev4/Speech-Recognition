@@ -25,6 +25,6 @@ This is a beginner-friendly Python project that demonstrates **real-time speech 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/voice-assistant.git
+   git clone https://github.com/AI-ML-dev4/Speech-Recognition.git
    cd voice-assistant
 
